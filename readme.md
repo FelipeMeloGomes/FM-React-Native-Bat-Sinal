@@ -19,7 +19,8 @@ eficiente.
 
 ## Demonstração
 
-https://github.com/Amadeo-Frontend/React-native__bat-signal/assets/104178969/24d3465b-77f4-49af-9cbd-12fcd2a0fea8
+https://github.com/user-attachments/assets/95479729-0580-4248-b2a7-bf8c829f9ed3
+
 
 ## Tecnologias Utilizadas
 
